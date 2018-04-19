@@ -2,7 +2,7 @@
 
 ### The blog theme you may fall in love with, coming to Hexo. [Preview](http://ppoffice.github.io/hexo-theme-icarus/)
 ![](http://ppoffice.github.io/hexo-theme-icarus/gallery/preview.png "")
-`_**``**_`
+
 #### [View Documentation](https://github.com/ppoffice/hexo-theme-icarus/wiki)
 :star: It is strongly recommended that you read the docs before using Icarus.
 

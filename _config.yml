@@ -8,7 +8,7 @@ subtitle:
 description:
 keywords:
 author: lizhaoyang
-language:
+language: zh-CN
 timezone:
 
 # URL
@@ -78,7 +78,22 @@ theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+
+# 自动生成sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
+
+baidu_url_submit:
+  count: 5
+  host: www.yunsupermarket.club
+  token: sHteM9m250H6QZx8lzhy
+  path: baidu_urls.txt
+
 deploy:
   type: git
   repo:
       github: git@github.com:qlnujsjlzy/qlnujsjlzy.github.io.git,master
+  bucket: www.yunsupermarket.club
+  -type: baidu_url_submitter
