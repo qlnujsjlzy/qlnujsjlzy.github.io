@@ -116,7 +116,7 @@ body,
   height: 100%;
 }
 body {
-  color: #1deac9;
+  color: #565a5f;
   background: #f5f8f9;
   font: 14px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -213,7 +213,7 @@ code {
 .archive-article-header a:visited,
 .layout-wrap-inner.tag-cloud a:visited,
 .timeline-row .content h1 a:visited {
-  color: #1deac9;
+  color: #565a5f;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
   -ms-transition: 0.2s ease;
@@ -354,7 +354,7 @@ code {
   -moz-transition: 0.2s ease;
   -ms-transition: 0.2s ease;
   transition: 0.2s ease;
-  color: #1deac9;
+  color: #565a5f;
 }
 #header a:hover {
   color: #38b7ea;
@@ -554,7 +554,7 @@ code {
   width: 200px;
   -webkit-box-shadow: none;
   box-shadow: none;
-  color: #1deac9;
+  color: #565a5f;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
   -ms-transition: 0.2s ease;
@@ -674,7 +674,7 @@ code {
 #profile .inner .base-info #location {
   font-size: 12px;
   margin-top: 5px;
-  color: #61ffff;
+  color: #9a9ea3;
 }
 #profile .inner .base-info #location .fa {
   margin-right: 5px;
@@ -740,10 +740,10 @@ code {
   -moz-transition: 0.2s ease;
   -ms-transition: 0.2s ease;
   transition: 0.2s ease;
-  color: #50fffc;
+  color: #898d92;
 }
 #profile .inner .social-links > table td a:hover {
-  color: #1deac9;
+  color: #565a5f;
 }
 #profile .inner .social-links > table td a.tooltip:hover:after {
   right: -50%;
@@ -820,7 +820,7 @@ code {
 }
 .article-title {
   font-size: 2em;
-  color: #1deac9;
+  color: #565a5f;
   text-decoration: none;
   line-height: 1.3em;
 }
@@ -871,7 +871,7 @@ a.article-title:hover {
   content: "#";
 }
 .article-entry {
-  color: #1deac9;
+  color: #565a5f;
   padding: 0 20px;
   line-height: 1.6em;
 }
@@ -1050,7 +1050,7 @@ a.article-title:hover {
   text-decoration: none;
 }
 .article-footer a:hover {
-  color: #1deac9;
+  color: #565a5f;
 }
 .article-comment-link {
   float: right;
@@ -1096,7 +1096,7 @@ a.article-title:hover {
     margin-left: -4px;
     content: "";
     border-radius: 50%;
-    background: #3fffeb;
+    background: #787c81;
   }
 }
 .article-nav-link-wrap {
@@ -1110,7 +1110,7 @@ a.article-title:hover {
   display: block;
 }
 .article-nav-link-wrap:hover {
-  color: #1deac9;
+  color: #565a5f;
 }
 @media screen and (min-width: 1200px) {
   .article-nav-link-wrap {
@@ -1136,7 +1136,7 @@ a.article-title:hover {
   letter-spacing: 2px;
   line-height: 1em;
   font-weight: bold;
-  color: #1deac9;
+  color: #565a5f;
   text-transform: uppercase;
 }
 #article-nav-newer .article-nav-caption {
@@ -1145,7 +1145,7 @@ a.article-title:hover {
 .article-nav-title {
   font-size: 0.85em;
   margin-top: 0.5em;
-  color: #1deac9;
+  color: #565a5f;
   line-height: 1.6em;
 }
 .article-share-box {
@@ -1170,7 +1170,7 @@ a.article-title:hover {
   box-sizing: border-box;
   font: 14px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
   padding: 0 10px;
-  color: #1deac9;
+  color: #565a5f;
   outline: none;
   border: 1px solid #eceff2;
   border-radius: 3px 3px 0 0;
@@ -1353,7 +1353,7 @@ a.article-title:hover {
 .archive-category-wrap .archive-year,
 .archive-tag-wrap .archive-year,
 .layout-title .archive-year {
-  color: #1deac9;
+  color: #565a5f;
 }
 .archive-year-wrap .archive-year:hover,
 .archive-category-wrap .archive-year:hover,
@@ -1537,7 +1537,7 @@ a.article-title:hover {
   }
 }
 #page-nav .current {
-  color: #1deac9;
+  color: #565a5f;
   font-weight: bold;
 }
 .timeline-wrap {
@@ -1609,7 +1609,7 @@ a.article-title:hover {
 }
 .timeline-row .content .article-meta {
   font-size: 12px;
-  color: #50fffc;
+  color: #898d92;
   border-top: 1px solid #f7f7f7;
   background-color: rgba(244,246,247,0.2);
 }
@@ -1628,7 +1628,7 @@ a.article-title:hover {
 #footer {
   padding: 20px 0;
   border-top: 1px solid #eceff2;
-  color: #1deac9;
+  color: #565a5f;
   font-size: 16px;
   text-align: center;
 }
@@ -1800,7 +1800,7 @@ a.article-title:hover {
   color: #fff;
   font-size: 50px;
   line-height: 55px;
-  background: #1deac9;
+  background: #565a5f;
   opacity: 0.8;
   border-radius: 4px;
   bottom: 20px;
