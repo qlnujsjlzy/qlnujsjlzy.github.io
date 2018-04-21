@@ -4,13 +4,32 @@
 
     
   <url>
+    <loc>http://www.yunsupermarket.club/2018/04/21/hello-world/</loc>
+    <lastmod>2018-04-21T07:34:27.884Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-04-21T07:32:18.000Z</pubTime>
+        
+        <tag>test</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.yunsupermarket.club/2018/04/21/test/</loc>
-    <lastmod>2018-04-21T07:32:36.645Z</lastmod>
+    <lastmod>2018-04-21T07:34:27.864Z</lastmod>
     <data>
         <display>
         <title>test</title>
         <pubTime>2018-04-21T07:32:18.000Z</pubTime>
         
+        <tag>test</tag>
+         
          
            
         </display>
