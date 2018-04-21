@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.yunsupermarket.club/tags/index.html</loc>
+    
+    <lastmod>2018-04-21T07:35:56.239Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.yunsupermarket.club/2018/04/21/hello-world/</loc>
     
     <lastmod>2018-04-21T07:34:27.884Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://www.yunsupermarket.club/2018/04/21/test/</loc>
     
     <lastmod>2018-04-21T07:34:27.864Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.yunsupermarket.club/tags/index.html</loc>
-    
-    <lastmod>2018-04-21T07:34:27.842Z</lastmod>
     
   </url>
   
