@@ -126,7 +126,7 @@ a {
   text-decoration: none;
 }
 a:visited {
-  color: #009688;
+  color: color-light_green;
 }
 code {
   margin: 0 2px;
@@ -688,7 +688,7 @@ code {
   line-height: 40px;
   text-align: center;
   margin: 20px auto 10px;
-  background: #009688;
+  background: #38b7ea;
   border-radius: 20px;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
@@ -825,7 +825,7 @@ code {
   line-height: 1.3em;
 }
 a.article-title:visited {
-  color: #009688;
+  color: color-light_green;
 }
 a.article-title:hover {
   color: #38b7ea;
