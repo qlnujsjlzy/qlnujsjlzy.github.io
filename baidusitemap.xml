@@ -3,6 +3,24 @@
 
 
     
+  <url>
+    <loc>http://www.yunsupermarket.club/2016/01/31/Chinese-Test/</loc>
+    <lastmod>2018-04-21T11:05:47.362Z</lastmod>
+    <data>
+        <display>
+        <title>中文测试</title>
+        <pubTime>2016-01-31T13:55:37.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Language Test" url="http://www.yunsupermarket.club/categories/Language-Test/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>http://www.yunsupermarket.club/2018/04/21/hello-world/</loc>
@@ -71,24 +89,6 @@
            
              
               <breadCrumb title="Music" url="http://www.yunsupermarket.club/categories/Music/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.yunsupermarket.club/2016/01/31/Chinese-Test/</loc>
-    <lastmod>2018-04-21T08:47:15.362Z</lastmod>
-    <data>
-        <display>
-        <title>中文测试</title>
-        <pubTime>2016-01-31T13:55:37.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="Language Test" url="http://www.yunsupermarket.club/categories/Language-Test/"/>
           
         </display>
     </data>
